@@ -1,0 +1,11 @@
+# Site settings
+name: eriksundin.se
+title: "Erik Sundin - Software Engineer | eriksundin.se"
+description: "A Swede with a passion for software engineering."
+email: erik@eriksundin.se
+baseurl: ""
+url: "http://eriksundin.se"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
